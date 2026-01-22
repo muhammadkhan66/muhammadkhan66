@@ -1,7 +1,9 @@
 # Hi 👋 I'm Muhammad Abdul Rehman Khan
 
 🎓 Computer Science Student at University of the People
-📍 Pakistan  
+
+
+📍 Based in Pakistan
 
 ## 👨‍💻 About Me
 - I am learning Python and Machine Learning
