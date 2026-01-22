@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Muhammad Abdul Rehman Khan
 
-<!--
-**muhammadkhan66/muhammadkhan66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at University of the People
+📍 Pakistan  
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- I am learning Python and Machine Learning
+- Currently working with NumPy and Pandas
+- Interested in Data Science and AI
+- Building projects to prepare for ML internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- NumPy
+- Pandas
+- Git & GitHub
+- Basic Machine Learning
+
+## 📌 Current Focus
+- Data Analysis projects
+- Machine Learning fundamentals
+- Building a strong GitHub portfolio
+
+## 📫 Connect With Me
+- GitHub: https://github.com/muhammadkhan66
+
